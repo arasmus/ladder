@@ -2,6 +2,7 @@ name: ladder
 dependencies:
 - hdf5=1.8.15.1=2
 - h5py=2.5.0=np110py27_4
+- libgfortran=1.0=0
 - matplotlib=1.5.1=np110py27_0
 - nomkl=1.0
 - openblas=0.2.14
